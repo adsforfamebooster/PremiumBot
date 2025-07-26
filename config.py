@@ -89,10 +89,10 @@ USER_REPLY_TEXT = "Sorry! You are not my owner!!"
 
 #==========================(BUY PREMIUM)====================#
 
-OWNER_TAG = os.environ.get("OWNER_TAG", "admin")
-UPI_ID = os.environ.get("UPI_ID", "@admin")
-QR_PIC = os.environ.get("QR_PIC", "")
-SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/admin")
+OWNER_TAG = os.environ.get("OWNER_TAG", "@Muichiro_02")
+UPI_ID = os.environ.get("UPI_ID", "@Muichiro_02")
+QR_PIC = os.environ.get("QR_PIC", "https://t.me/Muichiro_02")
+SCREENSHOT_URL = os.environ.get("SCREENSHOT_URL", f"t.me/Muichiro_02")
 #--------------------------------------------
 #Time and its price
 #15 Days
